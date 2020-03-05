@@ -19,13 +19,13 @@
   },
     {
     "name": "Harter",
-    "date: "2000,
+    "date: "2000",
     "title": "Is self-esteem only skin deep? The inextricable link between physical appearance and self-esteem.",
     "imageUrl": "https://imgur.com/NwRNtn0"
   },
     {
     "name": "Virtanen",
-      "date" 1994",
+      "date": 1994",
     "title": "Timing of eruption of permanent teeth: standard Finnish patient documents.",
     "imageUrl": "https://imgur.com/esTodBv"
   },
@@ -37,7 +37,7 @@
   },
     {
     "name": "Waldbott",
-      "date" "1978",
+      "date": "1978",
     "title": "Toxicity from repeated low-grade exposure to hydrogen fluoride – Case report",
     "imageUrl": "https://imgur.com/LcRVPHE"
   }
